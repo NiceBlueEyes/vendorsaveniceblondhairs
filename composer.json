@@ -1,0 +1,7 @@
+{
+    "name": "niceblondhairs/saved",
+    "description": "Hiermit ist meine Vendor ID gespeichert",
+    "require": {
+        "php": ">=7.2"
+    }
+}
